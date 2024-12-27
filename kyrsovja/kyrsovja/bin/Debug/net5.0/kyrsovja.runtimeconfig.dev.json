@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sedov\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sedov\\.nuget\\packages"
+    ]
+  }
+}

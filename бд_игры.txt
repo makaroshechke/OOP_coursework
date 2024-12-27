@@ -1,0 +1,23 @@
+The Witcher 3 - Developer: CD Projekt Red; Release Date: 19 May 2015; Genres: RPG, Action; Platforms: PC, PS4, Xbox
+
+Cyberpunk 2077 - Developer: CD Projekt Red; Release Date: 10 December 2020; Genres: RPG, Sci-Fi; Platforms: PC, PS4, Xbox
+
+Minecraft - Developer: Mojang; Release Date: 18 November 2011; Genres: Sandbox, Survival; Platforms: PC, Mobile
+
+Stardew Valley - Developer: ConcernedApe; Release Date: 26 February 2016; Genres: Simulation, RPG; Platforms: PC, Switch
+
+Hades - Developer: Supergiant Games; Release Date: 17 September 2020; Genres: Roguelike, Action; Platforms: PC, Switch
+
+Celeste - Developer: Matt Makes Games; Release Date: 25 January 2018; Genres: Platformer; Platforms: PC, PS4
+
+Portal 2 - Developer: Valve; Release Date: 19 April 2011; Genres: Puzzle, Sci-Fi; Platforms: PC
+
+Among Us - Developer: Innersloth; Release Date: 15 June 2018; Genres: Party, Multiplayer; Platforms: PC, Mobile
+
+Terraria - Developer: Re-Logic; Release Date: 16 May 2011; Genres: Sandbox, Adventure; Platforms: PC, PS4
+
+Overwatch - Developer: Blizzard; Release Date: 24 May 2016; Genres: Shooter, Multiplayer; Platforms: PC, PS4, Xbox
+
+Sky: Children of the Light - Developer: Thatgamecompany; Release Date: 2019-07-18; Genres: Role-playing, Indie; Platforms: PC, Mobile, PS4, Switch;
+
+Disco Elysium - Developer: ZA/UM; Release Date: 2019-10-15; Genres: RPG, Indi; Platforms: PC, PS4, Switch;

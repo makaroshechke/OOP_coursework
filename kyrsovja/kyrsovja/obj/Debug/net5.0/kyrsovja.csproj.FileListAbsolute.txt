@@ -1,0 +1,15 @@
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\bin\Debug\net5.0\kyrsovja.exe
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\bin\Debug\net5.0\kyrsovja.deps.json
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\bin\Debug\net5.0\kyrsovja.runtimeconfig.json
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\bin\Debug\net5.0\kyrsovja.runtimeconfig.dev.json
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\bin\Debug\net5.0\kyrsovja.dll
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\bin\Debug\net5.0\kyrsovja.pdb
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\obj\Debug\net5.0\kyrsovja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\obj\Debug\net5.0\kyrsovja.AssemblyInfoInputs.cache
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\obj\Debug\net5.0\kyrsovja.AssemblyInfo.cs
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\obj\Debug\net5.0\kyrsovja.csproj.CoreCompileInputs.cache
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\obj\Debug\net5.0\kyrsovja.dll
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\obj\Debug\net5.0\refint\kyrsovja.dll
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\obj\Debug\net5.0\kyrsovja.pdb
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\obj\Debug\net5.0\kyrsovja.genruntimeconfig.cache
+C:\Users\sedov\source\repos\kyrsovja\kyrsovja\obj\Debug\net5.0\ref\kyrsovja.dll
